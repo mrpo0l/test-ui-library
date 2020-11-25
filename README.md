@@ -28,6 +28,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Para publicar
 
-`npm set init.author.email "example-user@example.com"`
-`npm set init.author.name "example_user"`
-`npm set init.license "MIT"`
+`npm set init.author.email "example-user@example.com"`.
+
+`npm set init.author.name "example_user"`.
+
+`npm set init.license "MIT"`.
