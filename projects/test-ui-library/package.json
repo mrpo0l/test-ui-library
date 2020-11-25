@@ -1,5 +1,13 @@
 {
-  "name": "test-ui-library",
+  "name": "fretsmart-test-ui-library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrpo0l/test-ui-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrpo0l/test-ui-library/issues"
+  },
+  "homepage": "https://github.com/mrpo0l/test-ui-library",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^10.0.14",
