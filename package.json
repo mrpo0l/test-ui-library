@@ -1,6 +1,14 @@
 {
   "name": "test-ui-library",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrpo0l/test-ui-library.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrpo0l/test-ui-library/issues"
+  },
+  "homepage": "https://github.com/mrpo0l/test-ui-library",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
